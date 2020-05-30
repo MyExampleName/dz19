@@ -1,0 +1,6 @@
+Никита:
+class sys
+main
+Соня:
+class listFine
+class fine
